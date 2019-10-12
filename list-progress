@@ -1,7 +1,12 @@
 List Progress Belajar Github
 - Belajar Membuat repository
+    * Pengertiam
+    * Visualisasi terkait repository
 - Simulasi dengan membuat file baru
 - Membuat branch dan commit terkait perubahan
 - Memahami mengenai Push dan Pull
 - Belajar mengenai merge 
+    * Pengertian
+    * Merge kondisi konflik dan kondisi not konflik
 - Belajar konflik
+  - Fundamental jika perbedaan baris dalam satu file di repository
