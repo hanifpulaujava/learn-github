@@ -6,9 +6,7 @@ List Progress Belajar Github
 - Membuat branch dan commit terkait perubahan
 - Memahami mengenai Push dan Pull
 - Belajar mengenai merge 
-    * Pengertian
-    * Merge kondisi konflik dan kondisi not konflik
-- Belajar konflik
-  - Fundamental jika perbedaan baris dalam satu file di repository
-  - Menyelesaikan konflik
-  
+  - Merge ketika konflik dan not konflik
+  - Belajar konflik
+  - Problem Solve KOnflik
+
